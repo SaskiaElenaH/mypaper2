@@ -11,3 +11,8 @@ My new attempt
 Add this section
 
 ## Results
+
+## Bibliography
+Book 1
+Book 2
+Book 3
