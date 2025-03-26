@@ -16,6 +16,6 @@ Add this section
 ## Bibliography
 Book 1
 Book 2
-Better Book 3
+Paper 1
 Book 4
 Book 5
